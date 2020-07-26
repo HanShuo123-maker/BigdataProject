@@ -16,3 +16,4 @@ Date,Time,Latitude,Longitude,Type,Depth,Magnitude
 01/17/1965,10:43:17,-24.563,178.487,Earthquake,565,5.8
 -----------------------------------------------------------
 
+![Image](https://github.com/HanShuo123-maker/BigdataProject/image/earthquake_mysql.PNG)
